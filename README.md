@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mustajeeb</h1>
-<h3 align="center">I am a Front-end Developer skilled in JavaScript, React JS, CSS, and Tailwind. I also have a fundamental knowledge of Figma (a design tool), Three JS (a library), and GSAP (an animation tool). As a tech enthusiast, I am always recessed to learn new, in-demand skills to meet market requirements.</h3>
+<h3 align="center">I am a Mern Stack Developer skilled in JavaScript, React JS, CSS, Tailwind, Express JS, Node JS, and MongoDB. I also have a fundamental knowledge of Figma (a design tool), Three JS (a library), and GSAP (an animation tool). As a tech enthusiast, I am always recessed to learn new, in-demand skills to meet market requirements.</h3>
 
 - 🔭 I’m currently working on [Currency Tales](https://www.currencytales.online)
 
